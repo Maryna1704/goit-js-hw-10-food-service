@@ -1,3 +1,3 @@
-import './js/theme.js';
-import './js/menu.js';
 import './sass/main.scss';
+import './js/menu.js';
+import './js/theme.js';
